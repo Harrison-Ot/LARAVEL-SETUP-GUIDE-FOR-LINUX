@@ -29,7 +29,7 @@ source ~/.bashrc
 
 You can create a project using either the global Laravel installer or directly through Composer.
 
-### Option A: Using the Laravel Installer (Recommended)
+### Option A: Using the Laravel Installer
 Once the installer is verified above, create a project instantly by running:
 ```bash
 laravel new my-laravel-app
